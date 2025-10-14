@@ -2,7 +2,7 @@
 
 Vous trouverez la description complète du TP [ici](https://docs.google.com/document/d/1qWNqPZ9Ecd-yZ5Hpl6n2zd7ZGtHPjf3yaW1ulKRdWnk/edit?usp=sharing).
 
-Commande d'exécution :
+# Commande d'exécution :
 ```
 python ./agc/agc.py -i ./data/amplicon.fasta.gz -s 400 -m 10 -o OTU.fasta
 ```
